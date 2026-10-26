@@ -2,7 +2,7 @@
 
 Checkpoint 3 — Mobile Development & IoT (FIAP)
 
-## Integrantes
+## Autor
 
 | Nome completo | RM |
 |---|---|
