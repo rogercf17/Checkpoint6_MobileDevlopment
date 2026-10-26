@@ -34,8 +34,8 @@ O usuário visualiza em tempo real as leituras de **temperatura** e **umidade**,
 ### 1. Rodar o aplicativo
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
-cd <PASTA-DO-PROJETO>
+git clone [<URL-DO-REPOSITORIO>](https://github.com/rogercf17/Checkpoint6_MobileDevlopment.git)
+cd Checkpoint6_MobileDevelopment
 npm install
 npx expo start
 ```
