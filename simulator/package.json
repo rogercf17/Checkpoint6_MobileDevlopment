@@ -1,0 +1,13 @@
+{
+  "name": "iot-control-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simula o dispositivo IoT (sensores e lâmpada) do app IoT Control",
+  "main": "device.js",
+  "scripts": {
+    "start": "node device.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.10.0"
+  }
+}
